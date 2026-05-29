@@ -225,7 +225,7 @@ export default function Home() {
               Hi, I&apos;m Kiran.
             </h1>
             <p className="mt-5 max-w-2xl text-base leading-7 text-slate-600 sm:text-lg">
-              ECE student at the University of Toronto building software, cloud
+              ECE graduate from the University of Toronto building software, cloud
               infrastructure, and embedded systems.
             </p>
 
