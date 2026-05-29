@@ -1,0 +1,122 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  background: #fff1f5;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  color: #1f1720;
+  background:
+    radial-gradient(circle at 12% 8%, rgba(251, 113, 133, 0.22), transparent 26%),
+    radial-gradient(circle at 90% 0%, rgba(244, 114, 182, 0.18), transparent 28%),
+    linear-gradient(180deg, #fff1f5 0%, #fff7fb 44%, #ffffff 100%);
+  font-family:
+    Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+::selection {
+  background: #fecdd3;
+  color: #881337;
+}
+
+.section-band {
+  @apply border-y border-rose-100 bg-white/60;
+}
+
+.section-heading {
+  @apply mx-auto flex max-w-3xl flex-col items-center text-center;
+}
+
+.section-heading p {
+  @apply text-xs font-black uppercase tracking-[0.24em] text-rose-600;
+}
+
+.section-heading h2 {
+  @apply mt-3 text-4xl font-black text-slate-900 sm:text-5xl;
+}
+
+.section-heading span {
+  @apply mt-5 h-1 w-16 rounded-full bg-rose-500;
+}
+
+.section-heading small {
+  @apply mt-5 block max-w-2xl text-base font-medium leading-7 text-slate-600;
+}
+
+.chip {
+  @apply inline-flex min-h-8 items-center justify-center rounded-full border border-rose-100 bg-rose-50/70 px-2.5 py-1 text-center text-[11px] font-bold leading-4 text-rose-900 sm:min-h-9 sm:px-3 sm:text-xs;
+}
+
+.focus-ring {
+  @apply focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-rose-600;
+}
+
+.primary-button {
+  @apply focus-ring inline-flex w-fit items-center justify-center gap-2 rounded-full bg-rose-600 px-6 py-3 text-sm font-black text-white shadow-lg shadow-rose-500/25 transition hover:-translate-y-0.5 hover:bg-rose-700 hover:shadow-rose-500/35;
+}
+
+.secondary-button {
+  @apply focus-ring inline-flex w-fit items-center justify-center gap-2 rounded-full border border-rose-200 bg-white/90 px-6 py-3 text-sm font-black text-rose-900 shadow-sm transition hover:-translate-y-0.5 hover:border-rose-400 hover:text-rose-700 hover:shadow-md;
+}
+
+.mini-button {
+  @apply focus-ring inline-flex items-center gap-2 rounded-full border border-rose-200 bg-white px-3 py-2 text-sm font-black text-rose-900 transition hover:border-rose-500 hover:bg-rose-50 hover:text-rose-700;
+}
+
+.profile-panel {
+  @apply rounded-[2rem] border border-rose-100 bg-white/75 p-5 shadow-soft backdrop-blur sm:p-6 lg:p-8;
+}
+
+.interactive-card {
+  @apply flex items-center gap-4 rounded-3xl border border-rose-100 bg-white/80 p-4 shadow-sm transition hover:-translate-y-1 hover:border-rose-200 hover:bg-white hover:shadow-soft;
+}
+
+.interactive-card h3 {
+  @apply text-base font-black text-slate-900;
+}
+
+.interactive-card p {
+  @apply mt-1 text-sm leading-6 text-slate-600;
+}
+
+.icon-bubble {
+  @apply inline-flex h-12 w-12 shrink-0 items-center justify-center rounded-2xl bg-rose-50 text-rose-700;
+}
+
+.contact-card {
+  @apply focus-ring flex items-center gap-4 rounded-3xl border border-rose-100 bg-white p-5 text-slate-600 shadow-sm transition hover:-translate-y-1 hover:border-rose-300 hover:text-rose-700 hover:shadow-soft sm:gap-5 sm:p-6;
+}
+
+.contact-card span {
+  @apply inline-flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-rose-50 text-rose-700 sm:h-14 sm:w-14;
+}
+
+.contact-card p {
+  @apply min-w-0 break-words text-base font-bold sm:text-lg;
+}
+
+.contact-label {
+  @apply block text-base font-black text-slate-900;
+}
+
+.contact-input {
+  @apply mt-3 w-full rounded-2xl border border-rose-100 bg-rose-50/60 px-4 py-4 text-base text-slate-900 outline-none transition focus:border-rose-400 focus:bg-white;
+}

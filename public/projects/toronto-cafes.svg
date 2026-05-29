@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" role="img" aria-label="Toronto Cafes Near Me preview">
+  <rect width="1000" height="620" fill="#fff7f8"/>
+  <rect x="70" y="70" width="860" height="480" rx="28" fill="#ffffff" stroke="#ffd9df" stroke-width="4"/>
+  <rect x="100" y="104" width="800" height="92" rx="18" fill="#2f66e5"/>
+  <text x="132" y="163" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#ffffff">Toronto Cafes Near Me</text>
+  <rect x="120" y="240" width="330" height="240" rx="22" fill="#ffecef" stroke="#ffd9df" stroke-width="3"/>
+  <circle cx="190" cy="308" r="42" fill="#f28da0"/>
+  <text x="254" y="307" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#271f25">Cozy Corner Cafe</text>
+  <text x="254" y="343" font-family="Arial, sans-serif" font-size="18" fill="#64748b">0.8 km · pastries · WiFi</text>
+  <rect x="254" y="372" width="116" height="40" rx="20" fill="#2f66e5"/>
+  <text x="312" y="398" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">Directions</text>
+  <rect x="510" y="240" width="360" height="240" rx="22" fill="#f8fafc" stroke="#e2e8f0" stroke-width="3"/>
+  <path d="M540 436c92-120 132-46 196-128 52-66 94-22 104 8" fill="none" stroke="#2f66e5" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="632" cy="335" r="16" fill="#f28da0"/>
+  <circle cx="748" cy="303" r="16" fill="#f28da0"/>
+  <circle cx="812" cy="342" r="16" fill="#f28da0"/>
+</svg>

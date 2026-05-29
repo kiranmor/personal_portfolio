@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" role="img" aria-label="Computer Organization Projects preview">
+  <rect width="1000" height="620" fill="#f8fafc"/>
+  <rect x="110" y="92" width="780" height="436" rx="24" fill="#ffffff" stroke="#dbe7ff" stroke-width="4"/>
+  <rect x="172" y="170" width="170" height="118" rx="14" fill="#dbeafe" stroke="#2f66e5" stroke-width="4"/>
+  <text x="257" y="238" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#2f66e5">CPU</text>
+  <rect x="420" y="170" width="170" height="118" rx="14" fill="#ffecef" stroke="#f28da0" stroke-width="4"/>
+  <text x="505" y="238" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#7a3f59">ALU</text>
+  <rect x="668" y="170" width="170" height="118" rx="14" fill="#dcfce7" stroke="#6b7d67" stroke-width="4"/>
+  <text x="753" y="238" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#3f6b45">RAM</text>
+  <path d="M342 230h78M590 230h78M257 288v86h496v-86" fill="none" stroke="#94a3b8" stroke-width="10" stroke-linecap="round"/>
+  <rect x="326" y="386" width="348" height="74" rx="16" fill="#2f66e5"/>
+  <text x="500" y="433" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#ffffff">FPGA + Verilog</text>
+</svg>

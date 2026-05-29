@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" role="img" aria-label="Resume Job Matcher preview">
+  <rect width="1000" height="620" fill="#f8fafc"/>
+  <rect x="86" y="78" width="360" height="464" rx="24" fill="#ffffff" stroke="#e2e8f0" stroke-width="4"/>
+  <rect x="140" y="142" width="210" height="24" rx="12" fill="#2f66e5"/>
+  <rect x="140" y="202" width="250" height="16" rx="8" fill="#cbd5e1"/>
+  <rect x="140" y="242" width="210" height="16" rx="8" fill="#cbd5e1"/>
+  <rect x="140" y="282" width="260" height="16" rx="8" fill="#cbd5e1"/>
+  <rect x="140" y="350" width="160" height="16" rx="8" fill="#f28da0"/>
+  <rect x="140" y="390" width="236" height="16" rx="8" fill="#cbd5e1"/>
+  <rect x="554" y="118" width="320" height="320" rx="160" fill="#ffecef"/>
+  <path d="M714 214v104" stroke="#2f66e5" stroke-width="24" stroke-linecap="round"/>
+  <path d="M662 266h104" stroke="#2f66e5" stroke-width="24" stroke-linecap="round"/>
+  <rect x="574" y="474" width="280" height="44" rx="22" fill="#2f66e5"/>
+  <text x="714" y="504" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">84% match</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" role="img" aria-label="Quantum ML preview">
+  <rect width="1000" height="620" fill="#f8fafc"/>
+  <rect x="92" y="80" width="816" height="460" rx="28" fill="#ffffff" stroke="#e2e8f0" stroke-width="4"/>
+  <path d="M180 206h640M180 310h640M180 414h640" stroke="#cbd5e1" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="250" cy="206" r="28" fill="#2f66e5"/>
+  <circle cx="430" cy="310" r="28" fill="#f28da0"/>
+  <circle cx="610" cy="206" r="28" fill="#2f66e5"/>
+  <circle cx="745" cy="414" r="28" fill="#f28da0"/>
+  <path d="M250 206l180 104 180-104 135 208" fill="none" stroke="#7a3f59" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="228" y="466" width="544" height="36" rx="18" fill="#ffecef"/>
+  <text x="500" y="491" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#7a3f59">automated quantum ML benchmarks</text>
+</svg>
